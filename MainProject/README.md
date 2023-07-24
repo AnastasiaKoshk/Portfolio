@@ -1,4 +1,4 @@
-# Ссылка на Jupiter Notebook
+# Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/MainProject/MainProject.ipynb)
 
 # Описание проекта:
 
