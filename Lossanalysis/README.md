@@ -1,4 +1,4 @@
-# Ссылка на Jupiter Notebook
+# Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/Lossanalysis/LossAnalysis.ipynb)
 
 # Описание проекта:
 Проведен анализ данных от ProcrastinatePRO+.
