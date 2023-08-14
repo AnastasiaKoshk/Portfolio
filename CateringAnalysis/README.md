@@ -1,4 +1,6 @@
-# Ссылка на [Jupiter Noteebok](https://github.com/AnastasiaKoshk/Portfolio/blob/main/CateringAnalysis/Cateringanalysis.ipynb)
+# Исследование рынка общественного питания 
+
+Ссылка на [Jupiter Noteebok](https://github.com/AnastasiaKoshk/Portfolio/blob/main/CateringAnalysis/Cateringanalysis.ipynb)
 
 ## Описание проекта:
 
