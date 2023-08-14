@@ -1,4 +1,6 @@
-# Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/SQL/SQL.ipynb)
+# Проект по SQL
+
+Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/SQL/SQL.ipynb)
 
 ## Описание проекта:
 Проанализировать базу данных с информацией о книгах, издательствах, авторах, а также пользовательские обзоры книг. Сформулировать ценностное предложение для нового продукта.
