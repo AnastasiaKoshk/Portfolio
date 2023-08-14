@@ -1,4 +1,6 @@
-# Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/Lossanalysis/LossAnalysis.ipynb)
+# Анализ убытков приложения ProcrastinatePRO+
+
+Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/Lossanalysis/LossAnalysis.ipynb)
 
 ## Описание проекта:
 Проведен анализ данных от ProcrastinatePRO+.
