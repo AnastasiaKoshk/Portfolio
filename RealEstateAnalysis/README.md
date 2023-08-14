@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир
 
-Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/RealEstateAnalysis/Apartmentanalysis.ipynb)
+[Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/RealEstateAnalysis/RealEstateAnalysis.ipynb)
 
 ## Описание проекта:
 
