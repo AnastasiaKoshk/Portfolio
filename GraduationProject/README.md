@@ -1,6 +1,6 @@
 # Изучение поведения пользователей в мобильном приложении "Ненужные вещи"
 
-Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/MainProject/MainProject.ipynb)
+Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/GraduationProject/MainProject.ipynb)
 
 ## Описание проекта:
 
