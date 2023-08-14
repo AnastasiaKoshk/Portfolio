@@ -2,8 +2,6 @@
 
 [Jupiter Noteebok](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/CateringAnalysis/CateringAnalysis.ipynb)
 
-[HTML](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/CateringAnalysis/CateringAnalysis.html)
-
 ## Описание проекта:
 
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации.
