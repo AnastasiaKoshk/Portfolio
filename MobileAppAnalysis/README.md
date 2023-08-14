@@ -1,4 +1,6 @@
-# Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/Mobileanalysis/MobileAnalysis.ipynb)
+# Изучение поведения пользователей мобильного приложения
+
+Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/Mobileanalysis/MobileAnalysis.ipynb)
 
 ## Описание проекта:
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.
