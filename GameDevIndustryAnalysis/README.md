@@ -1,5 +1,5 @@
 # Исследование закономерностей об успешности игр
-Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/GameAnalysis/GameAnalysis.ipynb)
+Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/GameDevIndustryAnalysis/GameAnalysis.ipynb)
 
 ## Описание проекта:
 Выявлены параметры, определяющие успешность игры в разных регионах мира. На основании этого подготовлен отчет для магазина компьютерных игр для планирования рекламных кампаний. Проведена предобработка данных, анализ. Выбран актуальный период для анализа. Составлены портреты пользователей каждого региона. Проверены
