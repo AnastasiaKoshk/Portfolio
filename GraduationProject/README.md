@@ -2,7 +2,6 @@
 
 [Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/GraduationProject/GraduationProject.ipynb)
 
-[HTML](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/GraduationProject/GraduationProject.html) 
 
 ## Описание проекта:
 
