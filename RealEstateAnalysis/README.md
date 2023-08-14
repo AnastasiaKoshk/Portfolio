@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир
 
-Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Portfolio/blob/main/ApartmentAnalysis/Apartmentanalysis.ipynb)
+Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/RealEstateAnalysis/Apartmentanalysis.ipynb)
 
 ## Описание проекта:
 На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Добавлены новые данные.
