@@ -1,6 +1,6 @@
 # Анализ убытков приложения ProcrastinatePRO+
 
-Ссылка на [Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/MarketingStrategy/LossAnalysis.ipynb)
+[Jupiter Notebook](https://github.com/AnastasiaKoshk/Yandex.Practicum.Portfolio/blob/main/MarketingStrategy/MarketingStrategy.ipynb)
 
 ## Описание проекта:
 
